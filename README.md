@@ -2,7 +2,6 @@
 
 Welcome to the **Grocery Website**, an online platform that makes grocery shopping easy and accessible. This project features a sleek, responsive design that provides a seamless user experience, helping customers browse, add items to their cart, and checkout efficiently.
 
-![Grocery Animation](https://media.giphy.com/media/jpZ8XmfEeiYi4EyVlb/giphy.gif)
 
 ## 🎯 Project Overview
 
@@ -12,7 +11,6 @@ The Grocery Website is designed to deliver an intuitive and smooth grocery shopp
 - 🔥 **Dynamic cart management**: Add, remove, and update items with real-time price adjustments.
 - 💻 **Fully responsive**: Optimized for all devices, from mobile to desktop.
 
-![Cart Animation](https://media.giphy.com/media/3oz8xP0SkaG1j64xHy/giphy.gif)
 
 ## 🚀 Features
 
